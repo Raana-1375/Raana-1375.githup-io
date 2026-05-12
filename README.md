@@ -2,6 +2,8 @@
 
 This project is a simple web page created to practice **Git workflows**, **atomic commits**, and **HTML/CSS structures**.
 
+<img src="https://files.catbox.moe/ps09te.png"; alt="View of the web page" style="width="500px;" height="auto;"
+
 ## The Story (Summary)
 This version of the project focuses on the beginning of the classic tale:
 * **The Character:** A young girl known as Little Red Riding Hood because of her red velvet cloak.
