@@ -2,7 +2,7 @@
 
 This project is a simple web page created to practice **Git workflows**, **atomic commits**, and **HTML/CSS structures**.
 
-<img src="https://files.catbox.moe/ps09te.png"; alt="View of the web page" style="width="500px;" height="auto;">
+![Example Image](https://files.catbox.moe/ps09te.png)
 
 ## The Story (Summary)
 This version of the project focuses on the beginning of the classic tale:
